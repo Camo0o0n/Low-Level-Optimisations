@@ -1,0 +1,7 @@
+r and a add and remove boxes (class new and delete)
+R and A add and remove spheres (class new and delete
+w to walk the box heap
+W to walk the sphere heap
+f to enforce memory corruption
+w again to prove we check the memory
+h to corrupt header region

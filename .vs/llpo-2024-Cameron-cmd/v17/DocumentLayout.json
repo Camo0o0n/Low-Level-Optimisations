@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\ColliderObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ColliderObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\ColliderObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ColliderObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\CustomNewDelete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CustomNewDelete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\CustomNewDelete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CustomNewDelete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Callbacks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Callbacks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Box.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Box.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Box.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Box.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Vec3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vec3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9d2016e5-735e-4d98-a9af-fff43b64a526}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomNewDelete.cpp",
+              "DocumentMoniker": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\CustomNewDelete.cpp",
+              "RelativeDocumentMoniker": "CustomNewDelete.cpp",
+              "ToolTip": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\CustomNewDelete.cpp",
+              "RelativeToolTip": "CustomNewDelete.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T13:19:37.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomNewDelete.h",
+              "DocumentMoniker": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\CustomNewDelete.h",
+              "RelativeDocumentMoniker": "CustomNewDelete.h",
+              "ToolTip": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\CustomNewDelete.h",
+              "RelativeToolTip": "CustomNewDelete.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-08T13:19:35.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ColliderObject.cpp",
+              "DocumentMoniker": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\ColliderObject.cpp",
+              "RelativeDocumentMoniker": "ColliderObject.cpp",
+              "ToolTip": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\ColliderObject.cpp",
+              "RelativeToolTip": "ColliderObject.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T11:54:53.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Box.cpp",
+              "DocumentMoniker": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Box.cpp",
+              "RelativeDocumentMoniker": "Box.cpp",
+              "ToolTip": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Box.cpp",
+              "RelativeToolTip": "Box.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T11:54:50.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Callbacks.h",
+              "DocumentMoniker": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Callbacks.h",
+              "RelativeDocumentMoniker": "Callbacks.h",
+              "ToolTip": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Callbacks.h",
+              "RelativeToolTip": "Callbacks.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-07T11:54:49.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColliderObject.h",
+              "DocumentMoniker": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\ColliderObject.h",
+              "RelativeDocumentMoniker": "ColliderObject.h",
+              "ToolTip": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\ColliderObject.h",
+              "RelativeToolTip": "ColliderObject.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-07T11:54:31.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sphere.h",
+              "DocumentMoniker": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Sphere.h",
+              "RelativeDocumentMoniker": "Sphere.h",
+              "ToolTip": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Sphere.h",
+              "RelativeToolTip": "Sphere.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-07T11:54:29.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sphere.cpp",
+              "DocumentMoniker": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Sphere.cpp",
+              "RelativeDocumentMoniker": "Sphere.cpp",
+              "ToolTip": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Sphere.cpp",
+              "RelativeToolTip": "Sphere.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T11:54:28.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Vec3.h",
+              "DocumentMoniker": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Vec3.h",
+              "RelativeDocumentMoniker": "Vec3.h",
+              "ToolTip": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Vec3.h",
+              "RelativeToolTip": "Vec3.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-07T11:54:12.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Vec3.cpp",
+              "DocumentMoniker": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Vec3.cpp",
+              "RelativeDocumentMoniker": "Vec3.cpp",
+              "ToolTip": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Vec3.cpp",
+              "RelativeToolTip": "Vec3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T11:54:11.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Object.h",
+              "DocumentMoniker": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Object.h",
+              "RelativeDocumentMoniker": "Object.h",
+              "ToolTip": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Object.h",
+              "RelativeToolTip": "Object.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-07T11:50:56.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Object.cpp",
+              "DocumentMoniker": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Object.cpp",
+              "RelativeDocumentMoniker": "Object.cpp",
+              "ToolTip": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Object.cpp",
+              "RelativeToolTip": "Object.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T11:50:23.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAB8BAAAAAAAAAAAAADoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T12:19:37.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Box.h",
+              "DocumentMoniker": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Box.h",
+              "RelativeDocumentMoniker": "Box.h",
+              "ToolTip": "C:\\Users\\d019386m\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Box.h",
+              "RelativeToolTip": "Box.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-07T11:54:50.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

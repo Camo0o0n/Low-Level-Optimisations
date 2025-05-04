@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Tracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|solutionrelative:Tracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Tracker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|solutionrelative:Tracker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\TrackerManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|solutionrelative:TrackerManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|solutionrelative:Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Box.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|solutionrelative:Box.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Box.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|solutionrelative:Box.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Octree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|solutionrelative:Octree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Octree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|solutionrelative:Octree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\globals.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|solutionrelative:globals.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\CustomNewDelete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|solutionrelative:CustomNewDelete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\ColliderObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|solutionrelative:ColliderObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\ColliderObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|solutionrelative:ColliderObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\CustomNewDelete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91CDE04F-D2EF-49AE-B26E-611B9B0B98C0}|Physio.vcxproj|solutionrelative:CustomNewDelete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "globals.h",
+              "DocumentMoniker": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\globals.h",
+              "RelativeDocumentMoniker": "globals.h",
+              "ToolTip": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\globals.h",
+              "RelativeToolTip": "globals.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T10:25:39.004Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAGwBAAAAAAAAAADwv4IBAADaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T10:31:28.981Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Box.cpp",
+              "DocumentMoniker": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Box.cpp",
+              "RelativeDocumentMoniker": "Box.cpp",
+              "ToolTip": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Box.cpp",
+              "RelativeToolTip": "Box.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T18:25:20.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Box.h",
+              "DocumentMoniker": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Box.h",
+              "RelativeDocumentMoniker": "Box.h",
+              "ToolTip": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Box.h",
+              "RelativeToolTip": "Box.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T18:25:17.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tracker.h",
+              "DocumentMoniker": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Tracker.h",
+              "RelativeDocumentMoniker": "Tracker.h",
+              "ToolTip": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Tracker.h",
+              "RelativeToolTip": "Tracker.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T13:17:54.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Octree.h",
+              "DocumentMoniker": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Octree.h",
+              "RelativeDocumentMoniker": "Octree.h",
+              "ToolTip": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Octree.h",
+              "RelativeToolTip": "Octree.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T12:13:30.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Octree.cpp",
+              "DocumentMoniker": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Octree.cpp",
+              "RelativeDocumentMoniker": "Octree.cpp",
+              "ToolTip": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Octree.cpp",
+              "RelativeToolTip": "Octree.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T12:13:00.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sphere.cpp",
+              "DocumentMoniker": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Sphere.cpp",
+              "RelativeDocumentMoniker": "Sphere.cpp",
+              "ToolTip": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Sphere.cpp",
+              "RelativeToolTip": "Sphere.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T10:31:47.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tracker.cpp",
+              "DocumentMoniker": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Tracker.cpp",
+              "RelativeDocumentMoniker": "Tracker.cpp",
+              "ToolTip": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\Tracker.cpp",
+              "RelativeToolTip": "Tracker.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T10:26:31.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ColliderObject.h",
+              "DocumentMoniker": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\ColliderObject.h",
+              "RelativeDocumentMoniker": "ColliderObject.h",
+              "ToolTip": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\ColliderObject.h",
+              "RelativeToolTip": "ColliderObject.h",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T10:25:51.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ColliderObject.cpp",
+              "DocumentMoniker": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\ColliderObject.cpp",
+              "RelativeDocumentMoniker": "ColliderObject.cpp",
+              "ToolTip": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\ColliderObject.cpp",
+              "RelativeToolTip": "ColliderObject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T10:25:49.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomNewDelete.cpp",
+              "DocumentMoniker": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\CustomNewDelete.cpp",
+              "RelativeDocumentMoniker": "CustomNewDelete.cpp",
+              "ToolTip": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\CustomNewDelete.cpp",
+              "RelativeToolTip": "CustomNewDelete.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T10:25:25.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomNewDelete.h",
+              "DocumentMoniker": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\CustomNewDelete.h",
+              "RelativeDocumentMoniker": "CustomNewDelete.h",
+              "ToolTip": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\CustomNewDelete.h",
+              "RelativeToolTip": "CustomNewDelete.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T10:25:22.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrackerManager.cpp",
+              "DocumentMoniker": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\TrackerManager.cpp",
+              "RelativeDocumentMoniker": "TrackerManager.cpp",
+              "ToolTip": "C:\\Users\\camed\\OneDrive\\Documents\\GitHub\\llpo-2024-Cameron-cmd\\TrackerManager.cpp",
+              "RelativeToolTip": "TrackerManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T10:21:04.079Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
